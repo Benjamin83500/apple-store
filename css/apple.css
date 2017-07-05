@@ -1,0 +1,254 @@
+
+body.home {
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+	background-color: white;
+}
+
+header.homepage {
+	background:#4f1818;
+	
+}
+
+.menu {
+	margin: 0 auto;
+	width: 900px;
+}
+
+nav {
+	display: inline-block;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color:white;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 29px;
+    padding-top: 15px;
+    text-decoration: none;
+}
+
+li a:hover {
+	opacity: 0.6;
+}
+
+img.resize {
+	width: 18px;
+	height: 18px;
+}
+
+div.iphone7 {
+	background-image: url(../images/iphone7.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 610px;	
+}
+
+div.iphone7:hover {
+	opacity: 0.6;
+}
+
+div.thisisseven {
+	display: inline-block;
+	background-size: cover;
+	width: 24.68%;
+	height: 200px;	
+}
+
+div.thisisseven:hover {
+	opacity: 0.6;
+}
+
+div.iphone {
+	background-image: url(../images/iphone.jpeg);
+}
+
+div.iphone:hover {
+	opacity: 0.6;
+}
+
+div.macbookpro {
+	background-image: url(../images/macbookpro.jpeg);
+}
+
+div.macbookpro:hover {
+	opacity: 0.6;
+}
+
+div.airpods{
+	background-image: url(../images/airpods.jpg);
+}
+
+div.airpods:hover {
+	opacity: 0.6;
+}
+
+div.introducingclips {
+	background-image: url(../images/introducingclips.jpg);
+}
+
+div.introducingclips:hover {
+	opacity: 0.6;
+}
+
+.bottom {
+    background: white;
+    display: inline-block;
+    width: 15%;
+    vertical-align: top;
+    margin-left:150px;
+}
+
+.bottom li {
+    float: none;
+    display: block;
+}
+
+.bottom li a {
+	color: grey;
+	 font-size: 13px;	
+}
+
+
+
+.footer-link{
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
+	color: grey;
+	padding-top: 50px;
+	padding-left: 246px;
+}
+
+
+
+body {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	background-color: #F2F2F2;
+}
+
+header {
+	background:#1F1F1F;
+
+}
+
+.menu2 {
+	text-align: center;
+	margin: 0 auto;
+	width: 100%;
+	background-color: #141414;
+}
+span {
+	display: block;
+	color: white;
+	font-size: 11px;
+}
+
+a{
+	text-decoration: none;	
+}
+.lign:hover {
+	text-decoration: underline;
+
+}
+.promo {
+	position: relative;
+}
+.promo img {
+	background-repeat: no-repeat;
+	height: auto;
+	width: 100%	
+
+}
+.promo .position-text{
+	position: absolute; top: 10px; right: 400px;
+	color: white;
+	font-size: 13px;
+}
+.promo .position-text h2{
+	font-size: 46px;
+}
+.promo .position-text a{
+	padding: 5px;
+	font-size: 12px;
+	color: #3493c2;
+
+}
+.promo2 {
+	position: relative;
+	padding:50px;
+}
+.promo2 img {
+	background-repeat: no-repeat;
+	height: auto;
+	width: 100%;
+	
+
+}
+.promo2 .position-text{
+	position: absolute; top: 86px; right: 400px;
+	color: white;
+	font-size: 13px;
+}
+.promo2 .position-text a{
+	padding: 5px;
+	font-size: 18px;
+	color: white;
+
+}
+.promo3 {
+	position: relative;
+	padding:50px;
+}
+.promo3 img {
+	background-repeat: no-repeat;
+	height: auto;
+	width: 100%;
+	
+
+}
+.promo3 .position-text{
+	position: absolute; top: 86px; left: 104px;
+	color: white;
+	font-size: 13px;
+}
+.promo3 .position-text a{
+	padding: 5px;
+	font-size: 14px;
+	color: white;
+
+}
+.promo3 .position-text h1{
+	font-size: 64px;
+	padding-left: 220px;	
+}
+.bottom-grey {
+    background: #F2F2F2;
+    display: inline-block;
+    width: 15%;
+    vertical-align: top;
+    margin-left:150px;
+}
+
+.bottom-grey li {
+    float: none;
+    display: block;
+}
+
+.bottom-grey li a {
+	color: grey;
+	 font-size: 13px;	
+}
+
+.nav > a{
+	background-color: green;
+}
